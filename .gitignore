@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macos
+.DS_Store
+
+# windows
+desktop.ini
+
+# ipynb checkpoints
+.ipynb_checkpoints
+
+# vs code
+.vscode/
