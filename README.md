@@ -2,7 +2,7 @@
 
 Course project for **Music Perception and Cognition**, Sound and Music Computing Master's 2021-2022, Universitat Pompeu Fabra
 
-<img title="" src="https://github.com/chrispla/early-musical-memories/blob/main/first-musical-memory-wordcloud.png" alt="Wordcloud with most common words people associate their early musical memories with. Some of the most prominent are playing, singing, CD, saxophone, and cartoons." width="300" data-align="center">
+<img title="" src="https://github.com/chrispla/early-musical-memories/blob/main/first-musical-memory-wordcloud.png" alt="Wordcloud with most common words people associate their early musical memories with. Some of the most prominent are playing, singing, CD, saxophone, and cartoons." width="400" data-align="center">
 
 ### Motivation
 
