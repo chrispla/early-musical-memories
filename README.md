@@ -44,9 +44,9 @@ For each category, we investigate the associated valence and vividness. We do th
 
 * Someone performing in the household (Y/N)
 
-* Positive music experience (Y/N)
+* Positivity of music experience (5-point scale)
 
-* Positive childhood overall (Y/N)
+* Positivity of childhood overall (5-point scale)
 
 Some questions that ask for a descriptive answer are also present in the form responses, but not currently included in this analysis.
 
